@@ -14,7 +14,7 @@ const monthDate = document.querySelector('.months'); //miesiąc
 const yearDate = document.querySelector('.years'); //rok
 
 const img = document.querySelector('.clock'); //obrazek na tarczy
-const modal = document.querySelector('.modal'); 
+const modal = document.querySelector('.modal');
 
 const currentDate = new Date(); //data dzisiejsza
 
@@ -110,12 +110,7 @@ const imgArr = [
 	'img/watch.jpg',
 	'img/girl.jpg',
 	'img/mountain.jpg',
-	'img/clock1.jpg',
 	'img/cat.jpg',
-	'img/clock4.jpg',
-	'img/time.jpg',
-	'img/banner.jpg',
-	'img/tech.jpg',
 	'img/sunset.jpg',
 	'img/mountains.jpg',
 ];
